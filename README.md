@@ -1,6 +1,6 @@
 # Bilal Mohsin
 
-Computer Science student at FAST NUCES. Interested in AI/ML and full-stack (backend/frontend) development.
+Computer Science student at FAST NUCES. Interested in AI/ML, backend systems, and low-level programming.
 
 **Connect:** [Portfolio](https://bilalkalyar-200.github.io/portfolio.github.io/) · [GitHub](https://github.com/BilalKalyar-200) · [LinkedIn](https://www.linkedin.com/in/bilal-mohsin-830350320/)
 
@@ -40,6 +40,7 @@ Computer Science student at FAST NUCES. Interested in AI/ML and full-stack (back
 |---|---|---|
 | [Simulated-Operating-System](https://github.com/BilalKalyar-200/Simulated-Operating-System) | Simulation of core operating system concepts (process/memory management). | C++ |
 | [Student-Mangement-System](https://github.com/BilalKalyar-200/Student-Mangement-System) | Bash CLI tool for a teacher to manage up to 20 students — records, GPA calculation, and student login for viewing academic performance. | Shell |
+| [Candy-Crush-Game](https://github.com/BilalKalyar-200/Candy-Crush-Game) | Candy Crush-style match game. | C++ |
 | [Contact-Book-OOP-project](https://github.com/BilalKalyar-200/Contact-Book-OOP-project) | Contact book application built to demonstrate OOP principles. | C++ |
 | [Mini-Instagram-Using-DS](https://github.com/BilalKalyar-200/Mini-Instagram-Using-DS) | Simplified Instagram-style feed built using core data structures. | C++ |
 | [Ping-Pong-Assembly](https://github.com/BilalKalyar-200/Ping-Pong-Assembly) | Two-player ping pong game built in x86 Assembly (NASM). | Assembly |
@@ -48,4 +49,4 @@ Computer Science student at FAST NUCES. Interested in AI/ML and full-stack (back
 
 ## Other Repositories
 
-[Candy-Crush-Game](https://github.com/BilalKalyar-200/Candy-Crush-Game) · [University-Data-Structure](https://github.com/BilalKalyar-200/University-Data-Structure) · [Assembly-Language](https://github.com/BilalKalyar-200/Assembly-Language) (collection of x86 Assembly programs) · [Simple-Social-WebApp](https://github.com/BilalKalyar-200/Simple-Social-WebApp) · [Todo-List-App](https://github.com/BilalKalyar-200/Todo-List-App) · [Memory-Matching-Game-jQuery-](https://github.com/BilalKalyar-200/Memory-Matching-Game-jQuery-) · [Rock-Paper-Scissors](https://github.com/BilalKalyar-200/Rock-Paper-Scissors) · [ReactJS-practice](https://github.com/BilalKalyar-200/ReactJS-practice) · [html-css-js-react-practice](https://github.com/BilalKalyar-200/html-css-js-react-practice)
+[University-Data-Structure](https://github.com/BilalKalyar-200/University-Data-Structure) · [Assembly-Language](https://github.com/BilalKalyar-200/Assembly-Language) (collection of x86 Assembly programs) · [Simple-Social-WebApp](https://github.com/BilalKalyar-200/Simple-Social-WebApp) · [Todo-List-App](https://github.com/BilalKalyar-200/Todo-List-App) · [Memory-Matching-Game-jQuery-](https://github.com/BilalKalyar-200/Memory-Matching-Game-jQuery-) · [Rock-Paper-Scissors](https://github.com/BilalKalyar-200/Rock-Paper-Scissors) · [ReactJS-practice](https://github.com/BilalKalyar-200/ReactJS-practice) · [html-css-js-react-practice](https://github.com/BilalKalyar-200/html-css-js-react-practice)
