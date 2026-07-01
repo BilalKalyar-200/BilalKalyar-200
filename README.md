@@ -4,7 +4,7 @@ Computer Science student at FAST NUCES. Interested in AI/ML and full-stack (back
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BilalKalyar-200)
+[![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BilalKalyar-200)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-mohsin-830350320/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bilalkalyar-200.github.io/portfolio.github.io/)
 
@@ -25,7 +25,7 @@ Computer Science student at FAST NUCES. Interested in AI/ML and full-stack (back
 | Project | Description | Stack |
 |---|---|---|
 | [hireflow-ai](https://github.com/BilalKalyar-200/hireflow-ai) | Autonomous HR recruitment agent powered by Qwen AI on Alibaba Cloud. | Python |
-| [smiley-dental-tracker](https://github.com/BilalKalyar-200/smiley-dental-tracker) | Final Year Project — digital dental health management web app (in development). | JavaScript |
+| [smiley-dental-tracker](https://github.com/BilalKalyar-200/smiley-dental-tracker) | A web app for tracking and managing digital dental health records. | JavaScript |
 | [Custom-Alpha-beta-pruning-solver](https://github.com/BilalKalyar-200/Custom-Alpha-beta-pruning-solver) | Custom alpha-beta pruning engine built to solve complex minimax game trees efficiently. | Python |
 | [Wumpus-world-pathfinding-agent](https://github.com/BilalKalyar-200/Wumpus-world-pathfinding-agent) | AI agent that navigates and solves the classic Wumpus World problem using pathfinding logic. | Python |
 | [Sudoku-Solver-using-CSP-Techniques](https://github.com/BilalKalyar-200/Sudoku-Solver-using-CSP-Techniques) | Sudoku solver built using Constraint Satisfaction Problem (CSP) techniques. | Python |
@@ -38,7 +38,7 @@ Computer Science student at FAST NUCES. Interested in AI/ML and full-stack (back
 
 ---
 
-## Systems & Low-Level Programming
+## Data Structures & Low-Level Programming
 
 | Project | Description | Stack |
 |---|---|---|
