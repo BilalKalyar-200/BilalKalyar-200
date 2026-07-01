@@ -6,7 +6,7 @@ Computer Science student at FAST NUCES. Interested in AI/ML and full-stack (back
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BilalKalyar-200)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-mohsin-830350320/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bilalkalyar-200.github.io/portfolio.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bilalkalyar-200.github.io/portfolio.github.io/)
 
 ---
 
